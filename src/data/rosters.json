@@ -2,7 +2,7 @@
   "nba": {
     "source": "basketball-reference.com",
     "season": "2026",
-    "fetchedAt": "2026-08-31T17:21:34.909Z",
+    "fetchedAt": "2026-09-09T14:06:29.442Z",
     "teams": {
       "LAL": {
         "bbrCode": "LAL",
@@ -4233,7 +4233,7 @@
   "wnba": {
     "source": "basketball-reference.com",
     "season": "2026",
-    "fetchedAt": "2026-08-31T17:21:35.010Z",
+    "fetchedAt": "2026-09-09T14:06:29.511Z",
     "teams": {
       "TOR": {
         "bbrCode": "TOR",
@@ -5849,7 +5849,7 @@
             "per": 9.9
           },
           {
-            "name": "Eliška Hamzová",
+            "name": "Eliška Joklová",
             "slug": "hamzoel01w",
             "mpg": 5.3,
             "bpm": null,
